@@ -2,6 +2,8 @@
 
 Forecasting Kenya's construction input costs using the KNBS Construction Input Price Index, with application to the Affordable Housing Programme (AHP).
 
+<img width="3400" height="3443" alt="image" src="https://github.com/user-attachments/assets/a478d010-5858-4bb4-accc-23d4ea03ae7c" />
+
 ## Overview
 
 This project:
