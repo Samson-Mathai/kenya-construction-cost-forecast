@@ -1,0 +1,16 @@
+# Sub-index data compiled from KNBS CIPI reports and media coverage
+# These are quarterly percentage changes (QoQ) for the major sub-indices
+# Full absolute values would require extraction from individual quarterly PDFs
+# Base: December 2019 = 100
+
+year,quarter,period,sub_index,value,change_qoq_pct,source,notes
+2025,Q4,2025-Q4,transport_fuel,127.08,,KNBS CIPI Q4 2025,
+2025,Q4,2025-Q4,materials,127.22,,KNBS CIPI Q4 2025,
+2026,Q1,2026-Q1,transport_fuel,125.45,-1.28,KNBS CIPI Q1 2026,Fuel component dropped 2.58%
+2026,Q1,2026-Q1,materials,125.89,-1.05,KNBS CIPI Q1 2026,"Concrete/asphalts -2.69%, BRC mesh/rebar -1.73%, roofing -1.63%, ballast/gravel -1.05%, cement 0.00%"
+2026,Q1,2026-Q1,labour,,,KNBS CIPI Q1 2026,Relatively stable with minimal shifts
+2026,Q1,2026-Q1,equipment,,,KNBS CIPI Q1 2026,"Pedestrian rollers +0.66%, compressors/vibrators +0.41%, motor graders -0.35%"
+2026,Q2,2026-Q2,transport_fuel,,21.47,KNBS CIPI Q2 2026,"Fuel/lubricants +31.16%, general transport +12.34%"
+2026,Q2,2026-Q2,materials,,,"KNBS CIPI Q2 2026","Paints +8.43%, concrete/asphalts +7.25%, cement +6.99%, electrical fittings +6.27%, ballast/gravel +6.16%, kerbs +5.89%"
+2026,Q2,2026-Q2,labour,,4.38,KNBS CIPI Q2 2026,"Carpenters/painters/welders/mechanics +7.51%"
+2026,Q2,2026-Q2,equipment,,2.48,KNBS CIPI Q2 2026,Broad-based cost adjustments across machinery categories

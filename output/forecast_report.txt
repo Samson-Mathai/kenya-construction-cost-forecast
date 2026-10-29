@@ -1,0 +1,62 @@
+================================================================================
+KENYA CONSTRUCTION INPUT PRICE INDEX — FORECAST REPORT
+================================================================================
+
+DATA SOURCE
+----------------------------------------
+Publisher:      Kenya National Bureau of Statistics (KNBS)
+Series:         Construction Input Price Indices
+Base period:    December 2019 = 100
+Frequency:      Quarterly
+Observations:   27 quarters (2019-Q4 to 2026-Q2)
+URL:            https://www.knbs.or.ke/button/construction-input-pi/
+
+STATIONARITY
+----------------------------------------
+ADF test (levels):     p = 0.6064 (non-stationary)
+ADF test (1st diff):   p = 0.0000 (stationary)
+
+MODEL COMPARISON
+----------------------------------------
+  ARIMA(0, 2, 1):
+    AIC:  80.12
+    MAE:  2.1658
+    RMSE: 2.5519
+    MAPE: 1.80%
+
+  ETS (Damped Holt):
+    AIC:  24.33
+    MAE:  3.0192
+    RMSE: 3.3629
+    MAPE: 2.51%
+
+  Selected model: ARIMA (lowest holdout RMSE)
+
+FORWARD FORECAST
+----------------------------------------
+  ARIMA 2026-Q3: 127.37 (90% CI: 124.09 – 130.65)
+  ARIMA 2026-Q4: 128.39 (90% CI: 123.67 – 133.11)
+  ARIMA 2027-Q1: 129.40 (90% CI: 123.52 – 135.29)
+  ARIMA 2027-Q2: 130.42 (90% CI: 123.50 – 137.33)
+
+  ETS 2026-Q3: 123.41 (90% CI: 120.68 – 126.15)
+  ETS 2026-Q4: 123.85 (90% CI: 119.98 – 127.71)
+  ETS 2027-Q1: 124.26 (90% CI: 119.52 – 128.99)
+  ETS 2027-Q2: 124.65 (90% CI: 119.18 – 130.11)
+
+COST SENSITIVITY (AHP Units)
+----------------------------------------
+  Reference index: 126.36 (2026-Q2)
+
+  Affordable (1BR): Ksh 1,500,000 → Ksh 1,548,142 (+3.21%)
+  Affordable (2BR): Ksh 2,000,000 → Ksh 2,064,189 (+3.21%)
+  Affordable (3BR): Ksh 3,000,000 → Ksh 3,096,283 (+3.21%)
+  Social: Ksh 1,500,000 → Ksh 1,548,142 (+3.21%)
+  Institutional: Ksh 2,300,000 → Ksh 2,373,817 (+3.21%)
+
+================================================================================
+Note: This forecast uses a simple time-series model on ~26 quarterly points.
+The confidence intervals widen rapidly. Treat as a directional indicator,
+not a precise prediction. The Q2 2026 fuel spike (transport/fuel sub-index
++21.47%) is an outlier that heavily influences short-term forecasts.
+================================================================================

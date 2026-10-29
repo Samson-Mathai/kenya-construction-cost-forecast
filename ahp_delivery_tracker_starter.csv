@@ -1,0 +1,25 @@
+source,publisher,published,as_at,scope,category,stage,units,value_ksh_bn,avg_completion_pct,source_type,found_via,verified,notes
+KNBS Economic Survey 2026,KNBS,2026-04-29,2025-12,national,affordable,under_construction,138474,385.83,,official_statistics,Business Daily / Nation / KBC reports,NO,Get the original table from the Economic Survey 2026 construction chapter
+KNBS Economic Survey 2026,KNBS,2026-04-29,2025-12,national,social,under_construction,53350,81.8,,official_statistics,Business Daily / Nation / KBC reports,NO,
+KNBS Economic Survey 2026,KNBS,2026-04-29,2025-12,national,institutional,under_construction,12709,28.6,,official_statistics,Business Daily / Nation / KBC reports,NO,
+KNBS Economic Survey 2026,KNBS,2026-04-29,2025-12,national,NHC,under_construction,778,3.7,,official_statistics,Business Daily / Nation / KBC reports,NO,National Housing Corporation units
+KNBS Economic Survey 2026,KNBS,2026-04-29,2025-12,national,all_housing,under_construction,205311,500,,official_statistics,KBC report,NO,Value reported as approximately Ksh 500bn
+KNBS Economic Survey 2026,KNBS,2026-04-29,2025,SDHUD,all_housing,completed,6738,7.2,,official_statistics,KBC report,NO,Calendar year 2025; State Department for Housing and Urban Development
+KNBS Economic Survey 2026,KNBS,2026-04-29,2024,SDHUD,all_housing,completed,1655,4.0,,official_statistics,KBC report,NO,Calendar year 2024
+KNBS Economic Survey 2024,KNBS,2024-05,2023,SDHUD,all_housing,completed,3357,,,official_statistics,Eastleigh Voice report,NO,Calendar year 2023; value not captured yet
+KNBS Economic Survey 2024,KNBS,2024-05,2022,SDHUD,all_housing,completed,1390,,,official_statistics,Eastleigh Voice report,NO,Calendar year 2022; value not captured yet
+KNBS Economic Survey 2026,KNBS,2026-04-29,FY2024/25,national,housing,expenditure,,79.03,,official_statistics,Business Daily report,NO,Budget absorption 96.3%
+KNBS Economic Survey 2026,KNBS,2026-04-29,FY2023/24,national,housing,expenditure,,25.49,,official_statistics,Business Daily report,NO,Budget absorption 32.6% of Sh78.18bn
+Treasury 2026/27 budget documents,National Treasury,2026-05,2026,national,affordable,completed,2185,,,budget_document,The Standard 2026-05-07,NO,Check period covered in the original document
+Treasury 2026/27 budget documents,National Treasury,2026-05,2026,national,affordable,under_construction,62123,,32,budget_document,The Standard 2026-05-07,NO,Average completion rate reported as 32%
+Treasury 2026/27 budget documents,National Treasury,2026-05,2026,national,social,under_construction,44803,,17,budget_document,The Standard 2026-05-07,NO,Average completion rate reported as 17%
+Treasury 2026/27 budget documents,National Treasury,2026-05,2026,national,institutional,under_construction,11527,,22,budget_document,The Standard 2026-05-07,NO,Average completion rate reported as 22%
+Affordable Housing Board data,Affordable Housing Board,,,national,affordable,occupied,3171,,,board_data,The Standard (Skilled and unemployed article),NO,Date of data not captured; find original Board report
+Affordable Housing Board data,Affordable Housing Board,,,national,affordable,under_construction,128028,,,board_data,The Standard (Skilled and unemployed article),NO,Date of data not captured; find original Board report
+Notable completed projects infographic,The Star,2026-03-11,2026-03,national,affordable,completed,8367,,,media_summary,The Star infographic,NO,Cumulative since September 2022; check definition
+Security housing sub-committee statement,Ministry of Interior / NDIC,2026-03-02,2026-03,security_cluster,institutional,pipeline,47464,,,government_statement,Capital FM / Citizen Digital,NO,165 projects in total
+Security housing sub-committee statement,Ministry of Interior / NDIC,2026-03-02,2026-03,security_cluster,institutional,completed,2092,,,government_statement,Capital FM / Citizen Digital,NO,
+Security housing sub-committee statement,Ministry of Interior / NDIC,2026-03-02,2026-03,security_cluster,institutional,under_construction,9555,,,government_statement,Capital FM / Citizen Digital,NO,
+Security housing sub-committee statement,Ministry of Interior / NDIC,2026-03-02,2026-03,security_cluster,institutional,procurement,24720,,,government_statement,Capital FM / Citizen Digital,NO,
+Deputy President remarks,Office of the Deputy President,2026-04-11,2026-04,national,all_housing,various_stages,270000,,,official_statement,The Star 2026-04-11,NO,Statement not a dataset; reported as approximately 270000 units at various stages
+Housing PS press briefing,State Department for Housing and Urban Development,2026-07-22,2026-07,national,all_housing,under_construction,300000,,,official_statement,AllAfrica 2026-07-23,NO,Reported as nearly 300000 units under construction
